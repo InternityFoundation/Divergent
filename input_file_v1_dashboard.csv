@@ -1,26 +1,25 @@
-Country,State,City,Ward location,Ward,Number of Cases- Very Congested Area,Number of Cases- Medium Congested,Number of Cases- Standalone Structure,Total number of cases,Population,,Density per square kilometer,Senior citizen %,Area,Educational institutes,Hospitals,Supermarts/malls,Critical congestion points,Commercial complexes,Residential areas
-India,Maharashtra,Mumbai,Colaba,A,1,,5,6,210847,,16868,0.14,12.5,54,40,20,0,0,0
-India,Maharashtra,Mumbai,Sanhurst Road,B,3,,12,15,140633,,56936,0.14,2.47,48,32,32,0,0,0
-India,Maharashtra,Mumbai,Marine Lines,C,3,,9,12,202922,,114001,0.14,1.78,43,23,21,0,0,0
-India,Maharashtra,Mumbai,Grant Road,D,3,3,18,24,382841,,57744,0.14,6.63,23,43,21,0,0,0
-India,Maharashtra,Mumbai,Byculla,E,2,3,5,10,440335,,59505,0.14,7.4,32,57,12,0,0,0
-India,Maharashtra,Mumbai,Matunga,F/N,5,0,10,15,396122,,28294,0.14,14,42,43,21,0,0,0
-India,Maharashtra,Mumbai,Parel,F/S,1,2,11,14,524393,,40400,0.14,12.98,53,32,23,0,0,0
-India,Maharashtra,Mumbai,Dadar/Plaza,G/N,6,0,12,18,457931,,45793,0.14,10,54,21,21,0,0,0
-India,Maharashtra,Mumbai,Elphinstone,G/S,24,3,28,55,582007,,64168,0.14,9.07,33,33,23,0,0,0
-India,Maharashtra,Mumbai,Khar/Santacruz,H/E,11,1,16,28,580835,,42929,0.14,13.53,54,23,32,0,0,0
-India,Maharashtra,Mumbai,Bandra,H/W,14,2,0,16,337391,,29211,0.14,11.55,65,42,25,0,0,0
-India,Maharashtra,Mumbai,Andheri (East),K/E,10,3,21,34,810002,,32688,0.14,24.78,45,24,26,0,0,0
-India,Maharashtra,Mumbai,Andheri (West),K/W,9,5,32,46,700680,,29956,0.14,23.39,34,23,26,0,0,0
-India,Maharashtra,Mumbai,Kurla,L,15,6,19,40,778218,,49006,0.14,15.88,32,23,28,0,0,0
-India,Maharashtra,Mumbai,Chembur East,M/E,3,0,1,4,674850,,20765,0.14,32.5,23,23,29,0,0,0
-India,Maharashtra,Mumbai,Chembur West,M/W,5,0,3,8,414040,,21233,0.14,19.5,65,43,24,0,0,0
-India,Maharashtra,Mumbai,Ghatkopar,N,16,2,2,20,619556,,23866,0.14,25.96,45,34,24,0,0,0
-India,Maharashtra,Mumbai,Malad,P/N,22,4,23,49,437849,,17915,0.14,24.44,54,53,26,0,0,0
-India,Maharashtra,Mumbai,Goregaon,P/S,2,,13,15,796775,,41651,0.14,19.13,65,54,26,0,0,0
-India,Maharashtra,Mumbai,Borivali West,R/C,0,0,6,6,589886,,33177,0.14,17.78,77,34,27,0,0,0
-India,Maharashtra,Mumbai,Dahiser,R/N,6,0,3,9,513077,,10262,0.14,50,45,45,27,0,0,0
-India,Maharashtra,Mumbai,Kandivalli,R/S,5,1,17,23,363827,,20213,0.14,18,75,34,25,0,0,0
-India,Maharashtra,Mumbai,Bhandup,S,18,5,8,31,691227,,10800,0.14,64,56,34,24,0,0,0
-India,Maharashtra,Mumbai,Mulund,T,3,1,4,8,330195,,7270,0.14,45.42,67,34,24,0,0,0
-,,,Total,Total,187,41,278,506,11976439,,874651,3.36,482.69,1184,847,587,0,0,0
+Ward location,latitude,longitude,Ward
+Colaba,18.9169893,72.8272211,A
+Sanhurst Road,18.9634234,72.84456461,B
+Marine Lines,18.9456157,72.8238162,C
+Grant Road,18.96900561,72.81872581,D
+Byculla,18.9766219,72.8327936,E
+Matunga,19.0274356,72.8501467,F/N
+Parel,19.0094817,72.8376614,F/S
+Dadar/Plaza,19.0054666,72.8399515,G/N
+Elphinstone,18.9479384,72.8406448,G/S
+Khar/Santacruz,19.08400223,72.85931743,H/E
+Bandra,19.0549792,72.8402203,H/W
+Andheri (East),19.11906045,72.84819166,K/E
+Andheri (West),19.11931175,72.84586908,K/W
+Kurla,19.0629954,72.8847136,L
+Chembur East,19.0753234,72.8727558,M/E
+Chembur West,19.0753234,72.8727558,M/W
+Ghatkopar,19.0859539,72.9082381,N
+Malad,19.1846771,72.8358068,P/N
+Goregaon,19.1647526,72.8500176,P/S
+Borivali West,19.2285516,72.8521468,R/C
+Dahiser,19.26994705,72.85492988,R/N
+Kandivalli,19.21428599,72.8865615,R/S
+Bhandup,19.1438684,72.9384327,S
+Mulund,19.1722904,72.9564695,T
